@@ -1,1 +1,1 @@
-# hackerrank For Döngüsü Sorusunun Çözümü.
+# hackerrank C++ For Döngüsü Sorusunun Çözümü.
