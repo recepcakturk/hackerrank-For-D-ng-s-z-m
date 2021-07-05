@@ -1,1 +1,1 @@
-# hackerrank-For-D-ng-s-z-m
+# hackerrank For Döngüsü Sorusunun Çözümü.
